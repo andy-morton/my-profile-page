@@ -52,6 +52,10 @@ a:hover {
   padding: 0px 20px;
 }
 
+.fa-brands {
+  font-size: 24px;
+}
+
 .card-white {
   background: white;                         /* White background */
   padding: 30px;                             /* Internal space */
