@@ -61,7 +61,7 @@ a:hover {
   padding: 30px;                             /* Internal space */
   border-radius: 4px;                        /* Small radius */
   box-shadow: 0 10px 30px rgba(0,0,0,.4);    /* Light shadow */
-  border: 2px dashed #F46036;
+  /* border: 2px dashed #F46036;*/
   text-align: center;
   margin: 20px 0px;
 }
